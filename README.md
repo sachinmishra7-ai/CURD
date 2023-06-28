@@ -1,4 +1,4 @@
-# CURD
+# CRUD
 
 
 Their is a code repository for the CURD Operation and Authantication functionally.
